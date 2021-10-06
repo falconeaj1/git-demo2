@@ -6,7 +6,8 @@ print('Now adding -u to push line')
 
 def add(x,y):
 	return x+y
-
+def subtract(x,y):
+	return x-y
 
 x=4
 y=2
